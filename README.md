@@ -16,10 +16,10 @@ Our team successfully implemented the following Salesforce features in this proj
 *   **Security:** Configured **Permission Sets** (e.g., "Enrollment Officer") to ensure secure and role-based data access.
 
 ## 📸 Project Screenshots
-*(Note: Add your project screenshots here)*
-*   **SECMS App Home Page:** `[Add Screenshot]`
-*   **Enrollment Approval Flow:** `[Add Screenshot]`
-*   **Reports & Dashboards:** `[Add Screenshot]`
+<img width="1384" height="920" alt="Screenshot 2026-09-24 134554" src="https://github.com/user-attachments/assets/91681068-0bca-4e18-b7be-8ce9664077ab" />
+<img width="1388" height="916" alt="Screenshot 2026-09-24 134502" src="https://github.com/user-attachments/assets/4e99d7ea-76dc-4b08-adad-21525d7138bd" />
+<img width="1391" height="936" alt="Screenshot 2026-09-24 134427" src="https://github.com/user-attachments/assets/c3d4253f-cc5c-4e12-88f5-9c2de0294cac" />
+
 
 ## 🎥 Project Demo
 Check out our complete project demonstration video here:
